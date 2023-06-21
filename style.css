@@ -68,10 +68,6 @@ p {
 
 
 
-
-
-
-
 .wrapper-2 {
     background: #FFFFFF;
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
@@ -81,6 +77,8 @@ p {
     margin: auto;
     margin-top: 86px;
 }
+
+
 
 .wrapper-2 h2 {
     font: 600 16px 'Roboto';
@@ -121,6 +119,8 @@ p {
     margin-left: 9px;
 }
 
+
+
 .flex-2 {
     display: flex;
     margin: 32.86px 0 0 278px;
@@ -156,11 +156,6 @@ p {
     background-size: contain;
     margin-top: -120px;
 }
-
-
-
-
-
 
 
 
