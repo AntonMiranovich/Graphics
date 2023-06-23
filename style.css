@@ -99,7 +99,7 @@ p {
     color: #4F4F4F;
 }
 
-.line-2 {
+.wrapper-2-line {
     width: 430px;
     height: 2px;
     background-color: #ECECEC;
@@ -107,7 +107,7 @@ p {
 }
 
 
-.item-2 {
+.wrapper-2-item1 {
     background-color: #165BAA;
     width: 21px;
     height: 8px;
@@ -121,7 +121,7 @@ p {
 
 
 
-.flex-2 {
+.wrapper-2-flex {
     display: flex;
     margin: 32.86px 0 0 278px;
 }
